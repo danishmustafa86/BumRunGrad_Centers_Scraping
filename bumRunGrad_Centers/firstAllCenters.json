@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Allergy Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/ef39556f-ec17-4489-96df-3676c66f9fa1/image.jpg",
+    "location": "Allergy Center Building A, 15 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/allergy-center-testing-asthma-food-bangkok-thailand"
+  },
+  {
+    "name": "Arrhythmia Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/b2bc474b-dfff-4416-8831-51ce065b0e3a/image.jpg",
+    "location": "Arrhythmia Center Building A, 14 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/arrhythmia-treatment-center-bangkok-thailand"
+  },
+  {
+    "name": "Behavioral Health Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/c904b7f0-8ab4-4114-abda-94cbdd30ddf9/image.jpg",
+    "location": "Behavioral Health Center Building B,  4 th floor.",
+    "detail_url": "https://www.bumrungrad.com/en/centers/behavioral-health-center"
+  },
+  {
+    "name": "Breast Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/cc54e930-eceb-4905-8c37-5e0e4db996a0/image.jpg",
+    "location": "Breast Center Building A, 16 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/breast-center-bangkok-thailand"
+  },
+  {
+    "name": "Breastfeeding Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/4c39bc59-bafb-4710-ba25-114c356b7ec3/image.jpg",
+    "location": "Breastfeeding Clinic Building B, 2 nd floor, North Wing Building B, 6 th floor, North Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/breast-feeding-clinic"
+  },
+  {
+    "name": "Bumrungrad @ Home Service Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/43e6362f-d34e-43ca-822d-6be0ed926048/image.jpg",
+    "location": "Bumrungrad @ Home Service Center Location: On request",
+    "detail_url": "https://www.bumrungrad.com/en/centers/home-service-center"
+  },
+  {
+    "name": "Bumrungrad Clinic Yangon",
+    "image_url": "https://www.bumrungrad.com/getattachment/9f2f9fec-aa7f-40a9-9b58-faa0f2609f77/image.jpg",
+    "location": "Bumrungrad Clinic Yangon No.9/B, Ma Naw Hari Street, Dagon Township, Yangon, Myanmar",
+    "detail_url": "https://www.bumrungrad.com/en/yangon"
+  },
+  {
+    "name": "Bumrungrad COVID-19 Recovery Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/65a4bce0-1761-4098-9f3e-ccb381164fd3/image.jpg",
+    "location": "",
+    "detail_url": "https://www.bumrungrad.com/en/covid19"
+  },
+  {
+    "name": "Bumrungrad Genomic Medicine Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/3bea31be-8880-4d96-9768-418a71f1bcbd/image.jpg",
+    "location": "Bumrungrad Genomic Medicine Center Location: Preventive Genomics and Integrative Medicine  : Building B, 3rd floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/preventive-genomics-integrative-medicine"
+  },
+  {
+    "name": "Bumrungrad Heart Valve Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/8f67feed-1ee0-46bd-9524-7522cec789e6/image.jpg",
+    "location": "Bumrungrad Heart Valve Center Building A, 14 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/heart-valve-center-bangkok-thailand"
+  },
+  {
+    "name": "Bumrungrad Orthopaedics Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/ce388b74-00e4-46f9-8b04-8e3b86045e58/image.jpg",
+    "location": "Bumrungrad Orthopaedics Center Building A, 20 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/orthopaedics-surgery-care-center-bangkok-thailand"
+  },
+  {
+    "name": "Bumrungrad Robotic Surgery Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/44372b42-06ae-43da-872b-b6f3505679b1/image.jpg",
+    "location": "Bumrungrad Robotic Surgery Center Building A, 16 th floor, counter C",
+    "detail_url": "https://www.bumrungrad.com/en/centers/robotic-surgery-center"
+  },
+  {
+    "name": "Bumrungrad Spine Institute",
+    "image_url": "https://www.bumrungrad.com/getattachment/96969f24-f5ef-4fbb-83e7-9b109afc1ea4/image.jpg",
+    "location": "Bumrungrad Spine Institute Building A, 20 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/spine-institute-surgery-bangkok-thailand-best-jci"
+  },
+  {
+    "name": "Bumrungrad’s Rehabilitation Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/dbbcc0ad-168b-4e3c-8e14-8750bf212067/image.jpg",
+    "location": "Bumrungrad’s Rehabilitation Center Building A, 20 th floor Physical Therapy Department Mezzanine floor ( M floor ) , Bumrungrad building B",
+    "detail_url": "https://www.bumrungrad.com/en/centers/rehabilitation-physical-therapy-center-bangkok-thailand"
+  },
+  {
+    "name": "Children's (Pediatrics) Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/ee109b65-49ea-4e74-8bb2-cfdd1a5fedd1/image.jpg",
+    "location": "Children’s (Pediatrics) Center Building A, 17 th floor Special Needs Children Development Center Building A, 17 th floor Children’s Eye Center Building A, 17 th and 18 th floors",
+    "detail_url": "https://www.bumrungrad.com/en/centers/children-pediatric-health-care-surgery-center-bangkok-thailand"
+  },
+  {
+    "name": "Colorectal Surgery Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/a9b26b25-1b25-491c-b50a-be8f9bfadb4e/image.jpg",
+    "location": "Colorectal Surgery Center 3rd floor, Building B, North wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/colorectal-surgery-center"
+  },
+  {
+    "name": "Complex Coronary Artery Intervention Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/a1c3686b-a890-4e3c-89e3-1e51b68aa8d7/image.jpg",
+    "location": "Complex Coronary Artery Intervention Center Building A, 14th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/complex-coronary-artery-intervention-center-bangkok-thailand"
+  },
+  {
+    "name": "Comprehensive Sleep Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/a417ea8d-b314-4cf1-9e3d-5795a6a44be4/image.jpg",
+    "location": "Comprehensive Sleep Clinic Counter 12A building A",
+    "detail_url": "https://www.bumrungrad.com/en/centers/comprehensive-sleep-clinic-bangkok-thailand"
+  },
+  {
+    "name": "Cornea Transplant Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/0395ed5d-2059-42cf-9d9b-c4c1d19eb704/image.jpg",
+    "location": "Cornea Transplant Center Building A, 18th Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/cornea-transplant-center"
+  },
+  {
+    "name": "Dental Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/81a2d99f-419d-4482-b8aa-321625d12dd3/image.jpg",
+    "location": "Dental Center Building B, South Wing Main Lobby escalators to the 3 rd floor, turn right to\n                                the end of the hallway",
+    "detail_url": "https://www.bumrungrad.com/en/centers/dental-exam-surgery-implants-center-bangkok-thailand"
+  },
+  {
+    "name": "Diagnostic Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/bf294c1c-6330-4675-a94a-c750c8dc1d91/image.jpg",
+    "location": "Diagnostic Center Building B, Ground floor, South Wing Building B, 2nd floor, North Wing Building A, 12th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/diagnostics-center-pet-ct-scan-pacs-mri-thailand"
+  },
+  {
+    "name": "Diagnostic Radiology and Nuclear Medicine",
+    "image_url": "https://www.bumrungrad.com/getattachment/83d04771-40cc-4114-aec9-35490acf4db9/image.jpg",
+    "location": "Diagnostic center Building B, 2nd floor, South Wing Interventional Radiology Building B, 5th floor, Noth Wing CT Scan Building B, G floor, South Wing MRI Scan Building B, G floor, South Wing Nuclear Medicine and PET/CT Building B, 2nd floor, South Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/diagnostic-radiology-nuclear-medicine-center-bangkok-thailand"
+  },
+  {
+    "name": "Dialysis Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/62cbdd67-5011-4992-a504-056523063271/image.jpg",
+    "location": "Dialysis Center Building C, 9 th Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/dialysis-center-bangkok-thailand-best-jci-hospital"
+  },
+  {
+    "name": "Digestive Disease (GI) Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/0739777d-4dff-4394-b090-40d2ffe1f48b/image.jpg",
+    "location": "Digestive Disease (G-I) Center Building B, 2 nd floor, North Wing, Main Lobby escalators to the 2 floor,\n                                  turn left",
+    "detail_url": "https://www.bumrungrad.com/en/centers/digestive-diseases-gi-center-treatment-bangkok-thailand"
+  },
+  {
+    "name": "Ear, Nose and Throat Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/aacbdda6-0b4e-41ca-9c6d-98dc156c5731/image.jpg",
+    "location": "Ear, Nose and Throat Center Building A, 12 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/ent-ear-nose-and-throat-center-bangkok-thailand"
+  },
+  {
+    "name": "Emergency Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/b68aac25-31d3-4acb-8782-acfd4308bfc3/image.jpg",
+    "location": "Emergency Center Building B, Ground floor, South Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/emergency-center-bangkok-thailand"
+  },
+  {
+    "name": "Endocrinology, Diabetes & Clinical Nutrition Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/158a070a-46cc-4904-9add-60a6fe7fdaf9/image.jpg",
+    "location": "Endocrinology, Diabetes & Clinical Nutrition​ Center​ Building A, 19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/diabetes-care-center-treatment-bangkok-thailand"
+  },
+  {
+    "name": "Esperance",
+    "image_url": "https://www.bumrungrad.com/getattachment/3f6bf5f3-7600-4156-8a27-1fe4f91176ce/image.jpg",
+    "location": "Esperance The Integrative Cancer Clinic 11 th floor Building C",
+    "detail_url": "https://www.bumrungrad.com/en/centers/esperance-integrative-cancer-clinic"
+  },
+  {
+    "name": "Expatriate Liaison Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/51bf4c8a-e2de-4e9c-a290-2804dd458f5c/image.jpg",
+    "location": "Expatriate Liaison Center Bumrungrad International Clinic (Building A) 10 th Floor Bumrungrad International Hospital (Building B) 2 nd Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/expatriate-liaison"
+  },
+  {
+    "name": "Eye Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/683c3651-51f0-4f0c-967a-a9cb705cccc1/image.jpg",
+    "location": "Eye Center Building A, 18 th Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/vision-eye-examination-surgery-center-bangkok-thailand"
+  },
+  {
+    "name": "Fertility Center & IVF Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/2b3b52f0-a59c-4918-83c0-af5abaf79df5/image.jpg",
+    "location": "Fertility Center & IVF Clinic Building B, Main Building, 2 nd floor, North Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/fertility-ivf-center-bangkok-thailand"
+  },
+  {
+    "name": "Gastrointestinal Motility Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/d7b34bf1-9f0c-4c4c-992b-844d955de6cf/image.jpg",
+    "location": "Gastrointestinal Motility Center Building B, 2 nd floor, North Wing, Main Lobby escalators to the                               2 floor, turn left",
+    "detail_url": "https://www.bumrungrad.com/en/centers/gastrointestinal-motility-center"
+  },
+  {
+    "name": "Health Screening Center (Checkup)",
+    "image_url": "https://www.bumrungrad.com/getattachment/914a85d3-12d0-4ad9-9279-d9fcf38ecef2/image.jpg",
+    "location": "Health Screening Center (Check-up) Building A, 11 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/health-check-up-center-bangkok-thailand-jci-best"
+  },
+  {
+    "name": "Hearing and Balance Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/653e7b34-cbcd-4bd9-8720-6d69163a992e/image.jpg",
+    "location": "Hearing and Balance Clinic Building A, 12 th floor, South Wing Main Lobby, take the escalator to the                              3 rd floor, turn right to the 2 nd center on the right",
+    "detail_url": "https://www.bumrungrad.com/en/centers/hearing-and-balance-clinic"
+  },
+  {
+    "name": "Heart Institute",
+    "image_url": "https://www.bumrungrad.com/getattachment/a1822dd2-b0b7-481d-a452-2e3c1a3b5791/image.jpg",
+    "location": "Heart Institute Building A, 14 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/heart-institute"
+  },
+  {
+    "name": "Holistic Wound Care Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/eed62499-1358-4c9c-852c-483a456ffa94/image.jpg",
+    "location": "",
+    "detail_url": "https://www.bumrungrad.com/en/centers/holistic-wound-care-center-bangkok-thailand"
+  },
+  {
+    "name": "Horizon Regional Cancer Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/379a6af7-5051-4948-8920-1dc32fb93dc5/image.jpg",
+    "location": "Horizon Regional Cancer Center Building B, 3 rd floor Chemotherapy Department Building B, 3 rd floor, South Wing Radiology Department Building B, Ground floor, South Wing Bone Marrow Transplant Unit Building B, 8 th floor, North Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/horizon-cancer-treatment-center-bangkok-thailand"
+  },
+  {
+    "name": "Hyperbaric Oxygen Therapy Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/a560b2cc-7bcc-4595-856f-f97133d80630/image.jpg",
+    "location": "Hyperbaric Oxygen Therapy Center Building B, 3 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/hbot-hyperbaric-oxygen-therapy-bangkok-thailand"
+  },
+  {
+    "name": "Intensive Care Unit (ICU)",
+    "image_url": "https://www.bumrungrad.com/getattachment/a194d3fb-eb5e-4f1a-b0b9-0718bf1caae3/image.jpg",
+    "location": "Intensive Care Unit (ICU) ICU 1 5th floor, South Wing ICU 2 5th floor, South Wing ICU 3 3th floor, North Wing ICU 4 4th floor, North Wing CCU 5th floor, South Wing",
+    "detail_url": "https://www.bumrungrad.com/en/centers/intensive-care-unit-icu-bangkok-thailand"
+  },
+  {
+    "name": "Medical Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/ff429d0b-508f-4858-af01-7170bb2b7f3a/image.jpg",
+    "location": "Medical Clinic Building A, 15 th and 19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/medical-clinic-bangkok-thailand"
+  },
+  {
+    "name": "Memory Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/77ee4224-57ec-453c-93ea-fd038f0ab782/image.jpg",
+    "location": "Neurology Center Building A, 19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/memory-clinic-dementia-alzheimers"
+  },
+  {
+    "name": "Nephrology (Kidney) Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/99fd1808-9379-4e37-b3f7-57abf5a93640/image.jpg",
+    "location": "Nephrology (Kidney) Center Building A , 19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/nephrology-kidney-center-bangkok-thailand"
+  },
+  {
+    "name": "Neurocritical Care",
+    "image_url": "https://www.bumrungrad.com/getattachment/892238a1-01a2-48ca-8dc6-b50f90045352/image.jpg",
+    "location": "Neurocritical Care Building B, 5 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/neurocritical-care"
+  },
+  {
+    "name": "Neuroscience Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/32edcda2-b6a6-466d-b689-5c979979c5fd/image.jpg",
+    "location": "Neuroscience Center Building A, 19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/neurology-stroke-dementia-neurosurgery-treatment-center-bangkok-thailand"
+  },
+  {
+    "name": "New Life Healthy Aging Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/1aa0bef6-61d3-46da-9d9e-1a195a78a8d8/image.jpg",
+    "location": "Medical Center Building A, 15 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/geriatric-new-life-bangkok-thailand"
+  },
+  {
+    "name": "Nutrition Services",
+    "image_url": "https://www.bumrungrad.com/getattachment/05c3abc6-c685-4d56-b40e-fe69eb86be69/image.jpg",
+    "location": "",
+    "detail_url": "https://www.bumrungrad.com/en/centers/nutrition-services"
+  },
+  {
+    "name": "Parkinson's Disease and Movement Disorders Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/b437e9cc-eeff-466a-8005-f7dcc5fef55f/image.jpg",
+    "location": "Parkinson's Disease and Movement Disorders Clinic Neuroscience (Neuroloy) Center, Building A ,19 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/parkinsons-disease-movement-disorders-clinic"
+  },
+  {
+    "name": "Perinatal Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/d906fd28-87ee-4c8c-b011-041283b3f0e2/image.jpg",
+    "location": "Perinatal Center Building B , 3 rd floor, North Wing (in front of the NICU, next to the Birth\n                                Unit)",
+    "detail_url": "https://www.bumrungrad.com/en/centers/perinatal-neonatal-center-bangkok-thailand"
+  },
+  {
+    "name": "Pharmacy Services",
+    "image_url": "https://www.bumrungrad.com/getattachment/24819e36-d0b7-4645-bd58-da405aada5a8/image.jpg",
+    "location": "",
+    "detail_url": "https://www.bumrungrad.com/en/clinics-centers/pharmacy"
+  },
+  {
+    "name": "Plastic (Cosmetic) Surgery Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/a9f2ebc4-c86a-49b1-ac64-a4f7fd23b401/image.jpg",
+    "location": "Plastic (Cosmetic) Surgery Center Building A, 16 th floor, Counter A",
+    "detail_url": "https://www.bumrungrad.com/en/centers/plastic-surgery-cosmetic-center-bangkok-thailand"
+  },
+  {
+    "name": "Pride Clinic",
+    "image_url": "https://www.bumrungrad.com/getattachment/68884e45-6ab7-4229-839d-8fbbdf447a7d/image.jpg",
+    "location": "Pride Clinic Building C , 11th Floor, Counter B",
+    "detail_url": "https://www.bumrungrad.com/en/centers/pride-clinic"
+  },
+  {
+    "name": "Pulmonary (Lung) Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/9be4e424-156e-41b6-9344-11b07ed01981/image.jpg",
+    "location": "Pulmonary (Lung) Center Building A, 15 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/pulmonary-lung-center-bangkok-thailand"
+  },
+  {
+    "name": "Refractive Surgery Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/b16114a9-c47e-4654-9701-780a6bc63404/image.jpg",
+    "location": "Eye Center Building A, 18 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/eyelaser-LASIK-bangkok-thailand"
+  },
+  {
+    "name": "Robotic Scoliosis Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/9f4686cd-c56f-499f-840c-420a016f63cd/image.jpg",
+    "location": "Robotic Scoliosis Center Building A, 20 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/robotic-scoliosis-surgery-center"
+  },
+  {
+    "name": "Skin (Dermatology) Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/2f51cbe9-4987-4040-a4a5-47101b6ff82b/image.jpg",
+    "location": "Skin (Dermatology) Center Building C, 8 th Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/skin-dermatology-center-bangkok-thailand"
+  },
+  {
+    "name": "Sports Medicine & Joint Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/c4cd57cb-8048-407c-aeb9-2ea521334436/image.jpg",
+    "location": "Sports Medicine and Joint Center​ (Building A 20D) th floor Sports Medicine and Joint Exercise Center​ (Building C) Ground Floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/joint-replacement-surgery-sport-medicine-center-bangkok-thailand"
+  },
+  {
+    "name": "Sports Medicine & Lifestyle Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/c819e6cf-30c1-441c-966d-0fb6703bbc35/image.jpg",
+    "location": "Sports Medicine & Lifestyle Center Building C, 11 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/sports-medicine-lifestyle-center-bangkok-thailand"
+  },
+  {
+    "name": "Surgery Clinic and Surgery Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/908c0f83-5e5d-4b55-a7ed-44b2f17830c9/image.jpg",
+    "location": "Surgery Clinic and Surgery Center Building A, 16 th floor Bumrungrad Robotic Surgery Center Building A, 16th floor, counter B",
+    "detail_url": "https://www.bumrungrad.com/en/centers/surgical-clinic-bangkok-thailand"
+  },
+  {
+    "name": "Travel Medicine Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/7f89bddb-9682-4d8a-a3dd-c090b9452dce/image.jpg",
+    "location": "Travel Medicine Center Building A, 15 th floor, Station A and C",
+    "detail_url": "https://www.bumrungrad.com/en/centers/travel-medicine-clinic-bangkok-thailand"
+  },
+  {
+    "name": "Urology Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/795a41e8-7a4b-42de-8e26-d3f449d980c9/image.jpg",
+    "location": "Urology Center Building A, 16 th floor",
+    "detail_url": "https://www.bumrungrad.com/en/centers/urology-prostate-bladder-center-bangkok-thailand"
+  },
+  {
+    "name": "Vaccination Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/604556fc-0470-4a4e-975e-fbe41a1506c6/image.jpg",
+    "location": "Vaccination Center Health Screening Center (Check-up) Building A, 11 th floor After hours Evening Unit Building B 3 rd floor (Digestive disease (GI)\n                                Center)",
+    "detail_url": "https://www.bumrungrad.com/en/centers/vaccination-center-bangkok-thailand"
+  },
+  {
+    "name": "VitalLife Phuket",
+    "image_url": "https://www.bumrungrad.com/getattachment/77338522-f01b-4e48-b395-8b5cc1580afd/image.jpg",
+    "location": "VitalLife Scientific Wellness Center- Phuket 78/3 Moo 4 Chengtalay Sub-District, Thalang District, Phuket 83110 VitalLife |\n                                  Phuket",
+    "detail_url": "https://www.vitallifeintegratedhealth.com/en/journal/phuket"
+  },
+  {
+    "name": "VitalLife Scientific Wellness Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/117393d1-c043-4c23-94e7-8220a6d6d3e8/image.jpg",
+    "location": "VitalLife Scientific Wellness Center 68 Building C 10 th Floor, Soi Sukhumvit 1, Klongtoey Nua, Wattana, Bangkok\n                                10110 https://www.vitallifeintegratedhealth.com/en/home",
+    "detail_url": "https://www.vitallifeintegratedhealth.com/en/home"
+  },
+  {
+    "name": "VitalLife Skin & Aesthetic Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/40085d03-e8bb-44ea-8671-33dff3925d4a/image.jpg",
+    "location": "VitalLife Skin & Aesthetic Center 8th-10th Floor, Building C, https://www.vitallifeintegratedhealth.com/en/home",
+    "detail_url": "https://www.vitallifeintegratedhealth.com/en/home"
+  },
+  {
+    "name": "Women's Center",
+    "image_url": "https://www.bumrungrad.com/getattachment/a4598b01-c429-41ce-ada1-fe55882241b0/image.jpg",
+    "location": "Women's Center Building B, 2 nd floor, North Wing of Main Building Easiest Way : Take the Main Lobby escalators to the 2 nd floor (which is above M Floor),\n                                  turn left. The Women's Center is about 15 meters on the left.",
+    "detail_url": "https://www.bumrungrad.com/en/centers/women-center-health-obgyn-bangkok-thailand"
+  }
+]

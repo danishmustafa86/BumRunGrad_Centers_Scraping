@@ -1,0 +1,3972 @@
+{
+  "scraping_summary": {
+    "total_centers": 65,
+    "successful_scrapes": 65,
+    "failed_scrapes": 0,
+    "scraping_date": "2025-07-12 01:24:49"
+  },
+  "centers_data": [
+    {
+      "name": "Allergy Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/ef39556f-ec17-4489-96df-3676c66f9fa1/image.jpg",
+      "original_location": "Allergy Center Building A, 15 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/allergy-center-testing-asthma-food-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3593",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Allergy Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3593",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Allergy Center",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Allergy Center",
+            "Building A, 15",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 15",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:14"
+    },
+    {
+      "name": "Arrhythmia Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/b2bc474b-dfff-4416-8831-51ce065b0e3a/image.jpg",
+      "original_location": "Arrhythmia Center Building A, 14 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/arrhythmia-treatment-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 92 250 4004",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Arrhythmia Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 92 250 4004",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Arrhythmia Center",
+            "Daily 8.00 am to 8.00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8.00 am to 8.00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Arrhythmia Center",
+            "Building A, 14",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 14",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:17"
+    },
+    {
+      "name": "Behavioral Health Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/c904b7f0-8ab4-4114-abda-94cbdd30ddf9/image.jpg",
+      "original_location": "Behavioral Health Center Building B,  4 th floor.",
+      "detail_url": "https://www.bumrungrad.com/en/centers/behavioral-health-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 4090",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Behavioral Health Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 4090",
+            "20.00-8.00 (BKK Time)",
+            "เบอร์ Contact center",
+            "+662 066 8888",
+            "และ",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Behavioral Health Center",
+            "Monday through Saturday: 9:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Monday through Saturday: 9:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Behavioral Health Center",
+            "Building B,  4",
+            "th",
+            "floor."
+          ],
+          "building_info": [
+            "Building B,  4",
+            "floor."
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:19"
+    },
+    {
+      "name": "Breast Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/cc54e930-eceb-4905-8c37-5e0e4db996a0/image.jpg",
+      "original_location": "Breast Center Building A, 16 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/breast-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [],
+          "contact_text": [
+            "Contact Number",
+            "Breast Center",
+            "Tel:",
+            "02 011 3680",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Breast Center",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday & Sunday",
+            "8:00 am to 7:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 7:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Breast Center",
+            "Building A, 16",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 16",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:22"
+    },
+    {
+      "name": "Breastfeeding Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/4c39bc59-bafb-4710-ba25-114c356b7ec3/image.jpg",
+      "original_location": "Breastfeeding Clinic Building B, 2 nd floor, North Wing Building B, 6 th floor, North Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/breast-feeding-clinic",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [],
+          "contact_text": [
+            "Contact Number",
+            "Breastfeeding Clinic",
+            "Tel: +66 2011 2676",
+            "Tel: +66 2011 2677",
+            "Tel: +66 2011 2361",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Breastfeeding Clinic",
+            "Monday - Friday",
+            "8:00 am to 4:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 4:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Breastfeeding Clinic",
+            "Building B, 2",
+            "nd",
+            "floor, North Wing",
+            "Building B, 6",
+            "th",
+            "floor, North Wing"
+          ],
+          "building_info": [
+            "Building B, 2",
+            "floor, North Wing",
+            "Building B, 6",
+            "floor, North Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:24"
+    },
+    {
+      "name": "Bumrungrad @ Home Service Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/43e6362f-d34e-43ca-822d-6be0ed926048/image.jpg",
+      "original_location": "Bumrungrad @ Home Service Center Location: On request",
+      "detail_url": "https://www.bumrungrad.com/en/centers/home-service-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 4833",
+            "+662 0114899"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad @ Home Service Center",
+            "Tel:",
+            "+662 011 4833",
+            ":",
+            "+662 0114899",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad @ Home Service Center",
+            "Service Hours: 24 hr."
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Service Hours: 24 hr."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad @ Home Service Center",
+            "Location: On request"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:26"
+    },
+    {
+      "name": "Bumrungrad Clinic Yangon",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/9f2f9fec-aa7f-40a9-9b58-faa0f2609f77/image.jpg",
+      "original_location": "Bumrungrad Clinic Yangon No.9/B, Ma Naw Hari Street, Dagon Township, Yangon, Myanmar",
+      "detail_url": "https://www.bumrungrad.com/en/yangon",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+95-978-230-2424"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad Clinic Yangon",
+            "Tel: (+95-9)230 2423-3",
+            "Hotline",
+            "Tel:",
+            "+95-978-230-2424",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "95",
+              "9"
+            ],
+            [
+              "2423",
+              "3"
+            ],
+            [
+              "95",
+              "978"
+            ],
+            [
+              "230",
+              "2424"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad Clinic Yangon",
+            "Monday through Friday",
+            "7:00 am to 4:00 pm",
+            "Saturday",
+            "7:00 am to 12:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 4:00 pm",
+            "7:00 am to 12:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Clinic Yangon",
+            "No.9/B, Ma Naw Hari Street, Dagon Township, Yangon, Myanmar"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:28"
+    },
+    {
+      "name": "Bumrungrad COVID-19 Recovery Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/65a4bce0-1761-4098-9f3e-ccb381164fd3/image.jpg",
+      "original_location": "",
+      "detail_url": "https://www.bumrungrad.com/en/covid19",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [],
+          "contact_text": [
+            "Contact Number",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:30"
+    },
+    {
+      "name": "Bumrungrad Genomic Medicine Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/3bea31be-8880-4d96-9768-418a71f1bcbd/image.jpg",
+      "original_location": "Bumrungrad Genomic Medicine Center Location: Preventive Genomics and Integrative Medicine  : Building B, 3rd floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/preventive-genomics-integrative-medicine",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-011-4890",
+            "02-011-4891"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad Genomic Medicine Center",
+            "02-011-4890",
+            ",",
+            "02-011-4891",
+            "Monday through Sunday Through 8:00 am to 6:00 pm",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad Genomic Medicine Center",
+            "Service Hours: Monday through Sunday 8:00 am to 6:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Service Hours: Monday through Sunday 8:00 am to 6:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Genomic Medicine Center",
+            "Location: Preventive Genomics and Integrative Medicine  : Building B, 3rd floor"
+          ],
+          "building_info": [
+            "Location: Preventive Genomics and Integrative Medicine  : Building B, 3rd floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:33"
+    },
+    {
+      "name": "Bumrungrad Heart Valve Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/8f67feed-1ee0-46bd-9524-7522cec789e6/image.jpg",
+      "original_location": "Bumrungrad Heart Valve Center Building A, 14 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/heart-valve-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3415"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad Heart Valve Center",
+            "Tel:",
+            "+66 2011 3415",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad Heart Valve Center",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Heart Valve Center",
+            "Building A, 14",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 14",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:35"
+    },
+    {
+      "name": "Bumrungrad Orthopaedics Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/ce388b74-00e4-46f9-8b04-8e3b86045e58/image.jpg",
+      "original_location": "Bumrungrad Orthopaedics Center Building A, 20 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/orthopaedics-surgery-care-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3092",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad Orthopaedics Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Phone:",
+            "+662 011 3092",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad Orthopaedics Center",
+            "Monday through Sunday",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Orthopaedics Center",
+            "Building A, 20",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 20",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:38"
+    },
+    {
+      "name": "Bumrungrad Robotic Surgery Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/44372b42-06ae-43da-872b-b6f3505679b1/image.jpg",
+      "original_location": "Bumrungrad Robotic Surgery Center Building A, 16 th floor, counter C",
+      "detail_url": "https://www.bumrungrad.com/en/centers/robotic-surgery-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 5999"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Bumrungrad Robotic Surgery Center",
+            "Tel:",
+            "+66 2011 5999",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Robotic Surgery Center",
+            "Building A, 16",
+            "th",
+            "floor, counter C"
+          ],
+          "building_info": [
+            "Building A, 16",
+            "floor, counter C"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:40"
+    },
+    {
+      "name": "Bumrungrad Spine Institute",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/96969f24-f5ef-4fbb-83e7-9b109afc1ea4/image.jpg",
+      "original_location": "Bumrungrad Spine Institute Building A, 20 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/spine-institute-surgery-bangkok-thailand-best-jci",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3091",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Bumrungrad Spine Institute",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3091",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad Spine Institute",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad Spine Institute",
+            "Building A, 20",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 20",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:43"
+    },
+    {
+      "name": "Bumrungrad’s Rehabilitation Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/dbbcc0ad-168b-4e3c-8e14-8750bf212067/image.jpg",
+      "original_location": "Bumrungrad’s Rehabilitation Center Building A, 20 th floor Physical Therapy Department Mezzanine floor ( M floor ) , Bumrungrad building B",
+      "detail_url": "https://www.bumrungrad.com/en/centers/rehabilitation-physical-therapy-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3093",
+            "+662 066 8888",
+            "1378",
+            "+662 011 2450"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Bumrungrad’s Rehabilitation Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3093",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Physical Therapy Department",
+            "Monday through Friday: 8.00 am to 8.00 pm (BKK Time)",
+            "Saturday, Sunday, and Holidays : 8.00 am to 6 pm (BKK Time)",
+            "Contact center",
+            "+662 011 2450",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Bumrungrad’s Rehabilitation Center",
+            "Monday through Friday",
+            "8:00 am to 7:00 pm",
+            "Saturday, Sunday, and Holidays",
+            "8:00 am to 4:00 pm",
+            "For speech therapy scheduling",
+            "Please contact the center directly"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 7:00 pm",
+            "8:00 am to 4:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Bumrungrad’s Rehabilitation Center",
+            "Building A, 20",
+            "th",
+            "floor",
+            "Physical Therapy Department",
+            "Mezzanine floor ( M floor ) , Bumrungrad building B"
+          ],
+          "building_info": [
+            "Building A, 20",
+            "floor",
+            "Mezzanine floor ( M floor ) , Bumrungrad building B"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:45"
+    },
+    {
+      "name": "Children's (Pediatrics) Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/ee109b65-49ea-4e74-8bb2-cfdd1a5fedd1/image.jpg",
+      "original_location": "Children’s (Pediatrics) Center Building A, 17 th floor Special Needs Children Development Center Building A, 17 th floor Children’s Eye Center Building A, 17 th and 18 th floors",
+      "detail_url": "https://www.bumrungrad.com/en/centers/children-pediatric-health-care-surgery-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 61 409 1613",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Children’s (Pediatrics) Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 61 409 1613",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Children’s (Pediatrics) Center",
+            "Daily 7:00 am to 8:00 pm",
+            "Special Needs Children Development Center",
+            "Monday through Friday",
+            "By appointment only",
+            "Saturday and Sunday",
+            "8.30 am to 4:00 pm",
+            "Children’s Eye Center",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 7:00 am to 8:00 pm",
+            "Special Needs Children Development Center",
+            "8.30 am to 4:00 pm",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Children’s (Pediatrics) Center",
+            "Building A, 17",
+            "th",
+            "floor",
+            "Special Needs Children Development Center",
+            "Building A, 17",
+            "th",
+            "floor",
+            "Children’s Eye Center",
+            "Building A, 17",
+            "th",
+            "and 18",
+            "th",
+            "floors"
+          ],
+          "building_info": [
+            "Building A, 17",
+            "floor",
+            "Building A, 17",
+            "floor",
+            "Building A, 17",
+            "floors"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:48"
+    },
+    {
+      "name": "Colorectal Surgery Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a9b26b25-1b25-491c-b50a-be8f9bfadb4e/image.jpg",
+      "original_location": "Colorectal Surgery Center 3rd floor, Building B, North wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/colorectal-surgery-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "​+662-211-2351"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Colorectal Surgery Center",
+            "Hot line tel.",
+            "​+662-211-2351",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "662",
+              "211"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Colorectal Surgery Center",
+            "08.00 – 18.00 hrs."
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Colorectal Surgery Center",
+            "3rd floor, Building B, North wing"
+          ],
+          "building_info": [
+            "3rd floor, Building B, North wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:50"
+    },
+    {
+      "name": "Complex Coronary Artery Intervention Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a1c3686b-a890-4e3c-89e3-1e51b68aa8d7/image.jpg",
+      "original_location": "Complex Coronary Artery Intervention Center Building A, 14th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/complex-coronary-artery-intervention-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3491"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Complex Coronary Artery Intervention Center",
+            "Tel:",
+            "+66 2011 3491",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Complex Coronary Artery Intervention Center",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Complex Coronary Artery Intervention Center",
+            "Building A, 14th floor"
+          ],
+          "building_info": [
+            "Building A, 14th floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:52"
+    },
+    {
+      "name": "Comprehensive Sleep Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a417ea8d-b314-4cf1-9e3d-5795a6a44be4/image.jpg",
+      "original_location": "Comprehensive Sleep Clinic Counter 12A building A",
+      "detail_url": "https://www.bumrungrad.com/en/centers/comprehensive-sleep-clinic-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 2988"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Comprehensive Sleep Clinic",
+            "Tel:",
+            "+66 2011 2988",
+            "Email:",
+            "[email protected]",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Comprehensive Sleep Clinic",
+            "Monday through Sunday",
+            "Physician consultations by appointment only",
+            "Overnight sleep tests take place onsite",
+            "By appointment only"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Comprehensive Sleep Clinic",
+            "Counter 12A building A"
+          ],
+          "building_info": [
+            "Counter 12A building A"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:55"
+    },
+    {
+      "name": "Cornea Transplant Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/0395ed5d-2059-42cf-9d9b-c4c1d19eb704/image.jpg",
+      "original_location": "Cornea Transplant Center Building A, 18th Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/cornea-transplant-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02 011 3886",
+            "02 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Cornea Transplant Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "02 011 3886",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "02 066 8888",
+            "และ",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Cornea Transplant Center",
+            "Service Hours: 8.00-20.00 (BKK Time)",
+            "Outside of business hours, please contact the 24-hour emergency department."
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Service Hours: 8.00-20.00 (BKK Time)",
+            "Outside of business hours, please contact the 24-hour emergency department."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Cornea Transplant Center",
+            "Building A, 18th Floor"
+          ],
+          "building_info": [
+            "Building A, 18th Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:57"
+    },
+    {
+      "name": "Dental Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/81a2d99f-419d-4482-b8aa-321625d12dd3/image.jpg",
+      "original_location": "Dental Center Building B, South Wing Main Lobby escalators to the 3 rd floor, turn right to\n                                the end of the hallway",
+      "detail_url": "https://www.bumrungrad.com/en/centers/dental-exam-surgery-implants-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 4100",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Dental Center",
+            "8:00 am to 8:00 pm  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 4100",
+            "8:00 pm to 8:00 am (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Dental Center",
+            "Monday through Saturday",
+            "8:00 am to 8:00 pm",
+            "Sunday",
+            "8:00 am to 6:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 6:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Dental Center",
+            "Building B, South Wing Main Lobby escalators to the 3",
+            "rd",
+            "floor, turn right to the end of the hallway"
+          ],
+          "building_info": [
+            "Building B, South Wing Main Lobby escalators to the 3",
+            "floor, turn right to the end of the hallway"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:22:59"
+    },
+    {
+      "name": "Diagnostic Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/bf294c1c-6330-4675-a94a-c750c8dc1d91/image.jpg",
+      "original_location": "Diagnostic Center Building B, Ground floor, South Wing Building B, 2nd floor, North Wing Building A, 12th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/diagnostics-center-pet-ct-scan-pacs-mri-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2066 8888"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Diagnostic Center",
+            "Tel:",
+            "+66 2066 8888",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Diagnostic Center",
+            "Building B, Ground floor, South Wing",
+            "Building B, 2nd floor, North Wing",
+            "Building A, 12th floor"
+          ],
+          "building_info": [
+            "Building B, Ground floor, South Wing",
+            "Building B, 2nd floor, North Wing",
+            "Building A, 12th floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:01"
+    },
+    {
+      "name": "Diagnostic Radiology and Nuclear Medicine",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/83d04771-40cc-4114-aec9-35490acf4db9/image.jpg",
+      "original_location": "Diagnostic center Building B, 2nd floor, South Wing Interventional Radiology Building B, 5th floor, Noth Wing CT Scan Building B, G floor, South Wing MRI Scan Building B, G floor, South Wing Nuclear Medicine and PET/CT Building B, 2nd floor, South Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/diagnostic-radiology-nuclear-medicine-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-0112482",
+            "02-0112526",
+            "02-0112529",
+            "02-0112583",
+            "02-0113155",
+            "02-0112492"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Diagnostic center",
+            "Tel:",
+            "02-0112482",
+            "-3",
+            "Interventional Radiology",
+            "Tel:",
+            "02-0112526",
+            ",",
+            "02-0112529",
+            "CT Scan",
+            "Tel:",
+            "02-0112583",
+            "- 4",
+            "MRI Scan",
+            "Tel:",
+            "02-0113155",
+            "- 6",
+            "Nuclear Medicine and PET/CT",
+            "Tel:",
+            "02-0112492",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "0112"
+            ],
+            [
+              "482",
+              "3"
+            ],
+            [
+              "02",
+              "0112"
+            ],
+            [
+              "02",
+              "0112"
+            ],
+            [
+              "02",
+              "0112"
+            ],
+            [
+              "583",
+              "4"
+            ],
+            [
+              "02",
+              "0113"
+            ],
+            [
+              "155",
+              "6"
+            ],
+            [
+              "02",
+              "0112"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Diagnostic center",
+            "Service Hours: Daily 7:00 am to 8:00 pm (BKK Time)",
+            "Interventional Radiology",
+            "Service Hours: Daily 8:00 am to 5:00 pm (BKK Time)",
+            "CT Scan",
+            "Service Hours: Daily 7.00 am to 11.00 pm (BKK Time)",
+            "MRI Scan",
+            "Service Hours: Daily 7.00 am to 11.00 pm (BKK Time)",
+            "Nuclear Medicine and PET/CT",
+            "Service Hours: Daily 7.00 am to 5.00 pm (BKK Time)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Service Hours: Daily 7:00 am to 8:00 pm (BKK Time)",
+            "Service Hours: Daily 8:00 am to 5:00 pm (BKK Time)",
+            "Service Hours: Daily 7.00 am to 11.00 pm (BKK Time)",
+            "Service Hours: Daily 7.00 am to 11.00 pm (BKK Time)",
+            "Service Hours: Daily 7.00 am to 5.00 pm (BKK Time)"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Diagnostic center",
+            "Building B, 2nd floor, South Wing",
+            "Interventional Radiology",
+            "Building B, 5th floor, Noth Wing",
+            "CT Scan",
+            "Building B, G floor, South Wing",
+            "MRI Scan",
+            "Building B, G floor, South Wing",
+            "Nuclear Medicine and PET/CT",
+            "Building B, 2nd floor, South Wing"
+          ],
+          "building_info": [
+            "Building B, 2nd floor, South Wing",
+            "Building B, 5th floor, Noth Wing",
+            "Building B, G floor, South Wing",
+            "Building B, G floor, South Wing",
+            "Building B, 2nd floor, South Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:04"
+    },
+    {
+      "name": "Dialysis Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/62cbdd67-5011-4992-a504-056523063271/image.jpg",
+      "original_location": "Dialysis Center Building C, 9 th Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/dialysis-center-bangkok-thailand-best-jci-hospital",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 4062"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Dialysis Center",
+            "Tel:",
+            "+66 2011 4062",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Dialysis Center",
+            "Monday through Saturday",
+            "7:00 am to 4:00 pm",
+            "Morning Session",
+            "7:00 am",
+            "Afternoon Session",
+            "1:00 pm",
+            "(Other hours by appointment only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 4:00 pm",
+            "7:00 am",
+            "1:00 pm",
+            "(Other hours by appointment only)"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Dialysis Center",
+            "Building C, 9",
+            "th",
+            "Floor"
+          ],
+          "building_info": [
+            "Building C, 9",
+            "Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:06"
+    },
+    {
+      "name": "Digestive Disease (GI) Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/0739777d-4dff-4394-b090-40d2ffe1f48b/image.jpg",
+      "original_location": "Digestive Disease (G-I) Center Building B, 2 nd floor, North Wing, Main Lobby escalators to the 2 floor,\n                                  turn left",
+      "detail_url": "https://www.bumrungrad.com/en/centers/digestive-diseases-gi-center-treatment-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 2167 - 8",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Digestive Disease (GI) Center",
+            "​",
+            "8:00 am to 8:00 pm (BKK Time)",
+            "Hot line tel.",
+            "+662 011 2167 - 8",
+            "8:00 pm to 8:00 am (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "2167",
+              "8"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Digestive Disease (GI) Center",
+            "Sunday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday",
+            "8:00 am to 7:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 7:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Digestive Disease (G-I) Center",
+            "Building B, 2",
+            "nd",
+            "floor, North Wing, Main Lobby escalators to the 2",
+            "floor, turn left"
+          ],
+          "building_info": [
+            "Building B, 2",
+            "floor, North Wing, Main Lobby escalators to the 2",
+            "floor, turn left"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:08"
+    },
+    {
+      "name": "Ear, Nose and Throat Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/aacbdda6-0b4e-41ca-9c6d-98dc156c5731/image.jpg",
+      "original_location": "Ear, Nose and Throat Center Building A, 12 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/ent-ear-nose-and-throat-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3285",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Ear, Nose and Throat Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3285",
+            "20.00-8.00 (BKK Time)",
+            "Contact center:",
+            "+662 066 8888",
+            "Tel:",
+            "1378",
+            "(local calls only)",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Ear, Nose and Throat Center",
+            "Sunday through Friday",
+            "8.00 am to 8.00 pm",
+            "Saturday",
+            "8.00 am to 7.00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8.00 am to 8.00 pm",
+            "8.00 am to 7.00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Ear, Nose and Throat Center",
+            "Building A, 12",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 12",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:12"
+    },
+    {
+      "name": "Emergency Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/b68aac25-31d3-4acb-8782-acfd4308bfc3/image.jpg",
+      "original_location": "Emergency Center Building B, Ground floor, South Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/emergency-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 5222"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Emergency Center",
+            "Tel:",
+            "+66 2011 5222",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Emergency Center",
+            "24-hours daily"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "24-hours daily"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Emergency Center",
+            "Building B, Ground floor, South Wing"
+          ],
+          "building_info": [
+            "Building B, Ground floor, South Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:14"
+    },
+    {
+      "name": "Endocrinology, Diabetes & Clinical Nutrition Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/158a070a-46cc-4904-9add-60a6fe7fdaf9/image.jpg",
+      "original_location": "Endocrinology, Diabetes & Clinical Nutrition​ Center​ Building A, 19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/diabetes-care-center-treatment-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Endocrinology, Diabetes & Clinical Nutrition​ Center​",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "02-0113984",
+            "-5 and",
+            "02-113991",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "02",
+              "0113"
+            ],
+            [
+              "984",
+              "5"
+            ],
+            [
+              "02",
+              "1139"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Endocrinology, Diabetes & Clinical Nutrition​ Center​",
+            "Monday through Saturday",
+            "9:00 am to 8:00 pm",
+            "Sunday",
+            "8:00 am to 3:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "9:00 am to 8:00 pm",
+            "8:00 am to 3:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Endocrinology, Diabetes & Clinical Nutrition​ Center​",
+            "Building A, 19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 19",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:17"
+    },
+    {
+      "name": "Esperance",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/3f6bf5f3-7600-4156-8a27-1fe4f91176ce/image.jpg",
+      "original_location": "Esperance The Integrative Cancer Clinic 11 th floor Building C",
+      "detail_url": "https://www.bumrungrad.com/en/centers/esperance-integrative-cancer-clinic",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-2011-5588"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Esperance",
+            "​",
+            "The Integrative Cancer Clinic",
+            "02-2011-5588",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "2011"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Esperance",
+            "The Integrative Cancer Clinic",
+            "8.00am - 16.00pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8.00am - 16.00pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Esperance",
+            "The Integrative Cancer Clinic",
+            "11",
+            "th",
+            "floor Building C"
+          ],
+          "building_info": [
+            "floor Building C"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:19"
+    },
+    {
+      "name": "Expatriate Liaison Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/51bf4c8a-e2de-4e9c-a290-2804dd458f5c/image.jpg",
+      "original_location": "Expatriate Liaison Center Bumrungrad International Clinic (Building A) 10 th Floor Bumrungrad International Hospital (Building B) 2 nd Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/expatriate-liaison",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-011-3081",
+            "02-011-2478"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Expatriate Liaison Center",
+            "Bumrungrad International Clinic (Building A) 10",
+            "th",
+            "Floor       Tel.",
+            "02-011-3081",
+            "Bumrungrad International Hospital (Building B) 2",
+            "nd",
+            "Floor    Tel.",
+            "02-011-2478",
+            "For more information, please contact Email:",
+            "[email protected]",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Expatriate Liaison Center",
+            "Operation Time",
+            "Daily 08:00 – 18:00"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Operation Time",
+            "Daily 08:00 – 18:00"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Expatriate Liaison Center",
+            "Bumrungrad International Clinic (Building A) 10",
+            "th",
+            "Floor",
+            "Bumrungrad International Hospital (Building B) 2",
+            "nd",
+            "Floor"
+          ],
+          "building_info": [
+            "Bumrungrad International Clinic (Building A) 10",
+            "Floor",
+            "Bumrungrad International Hospital (Building B) 2",
+            "Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:22"
+    },
+    {
+      "name": "Eye Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/683c3651-51f0-4f0c-967a-a9cb705cccc1/image.jpg",
+      "original_location": "Eye Center Building A, 18 th Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/vision-eye-examination-surgery-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Eye Center",
+            "9.00-17.00  (BKK Time)",
+            "Hot line tel.",
+            "061-408-9622",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "9.00",
+              "17.00"
+            ],
+            [
+              "061",
+              "408"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Eye Center",
+            "Daily 8:00 am to 8:00 pm",
+            "Outside these hours",
+            "Please contact the Emergency Department (24 hours a day)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm",
+            "Outside these hours",
+            "Please contact the Emergency Department (24 hours a day)"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Eye Center",
+            "Building A, 18",
+            "th",
+            "Floor"
+          ],
+          "building_info": [
+            "Building A, 18",
+            "Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:25"
+    },
+    {
+      "name": "Fertility Center & IVF Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/2b3b52f0-a59c-4918-83c0-af5abaf79df5/image.jpg",
+      "original_location": "Fertility Center & IVF Clinic Building B, Main Building, 2 nd floor, North Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/fertility-ivf-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+6680 045 2907",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Fertility Center & IVF Clinic",
+            "​",
+            "Monday through Friday",
+            "8.00-16.00  (BKK Time)",
+            "Hot line tel.",
+            "+6680 045 2907",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "16.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Fertility Center & IVF Clinic",
+            "Monday through Saturday",
+            "7:00 am to 8:00 pm",
+            "Sunday",
+            "7:00 am to 5:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 8:00 pm",
+            "7:00 am to 5:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Fertility Center & IVF Clinic",
+            "Building B, Main Building, 2",
+            "nd",
+            "floor, North Wing"
+          ],
+          "building_info": [
+            "Building B, Main Building, 2",
+            "floor, North Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:27"
+    },
+    {
+      "name": "Gastrointestinal Motility Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/d7b34bf1-9f0c-4c4c-992b-844d955de6cf/image.jpg",
+      "original_location": "Gastrointestinal Motility Center Building B, 2 nd floor, North Wing, Main Lobby escalators to the                               2 floor, turn left",
+      "detail_url": "https://www.bumrungrad.com/en/centers/gastrointestinal-motility-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 63 190 3152",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Gastrointestinal Motility Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 63 190 3152",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "และ",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Gastrointestinal Motility Center",
+            "Sunday through Friday",
+            "8.00-20.00 น.",
+            "Saturday",
+            "8.00-19.00 น."
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Gastrointestinal Motility Center",
+            "Building B, 2",
+            "nd",
+            "floor, North Wing, Main Lobby escalators to the 2 floor, turn left"
+          ],
+          "building_info": [
+            "Building B, 2",
+            "floor, North Wing, Main Lobby escalators to the 2 floor, turn left"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:29"
+    },
+    {
+      "name": "Health Screening Center (Checkup)",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/914a85d3-12d0-4ad9-9279-d9fcf38ecef2/image.jpg",
+      "original_location": "Health Screening Center (Check-up) Building A, 11 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/health-check-up-center-bangkok-thailand-jci-best",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3193",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Health Screening Center (Check-up)",
+            "​",
+            "8.00-15.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3193",
+            "8.00-15.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "15.00"
+            ],
+            [
+              "8.00",
+              "15.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Health Screening Center (Check-up)",
+            "Daily 8:00 am to 3:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 3:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Health Screening Center (Check-up)",
+            "Building A, 11",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 11",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:32"
+    },
+    {
+      "name": "Hearing and Balance Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/653e7b34-cbcd-4bd9-8720-6d69163a992e/image.jpg",
+      "original_location": "Hearing and Balance Clinic Building A, 12 th floor, South Wing Main Lobby, take the escalator to the                              3 rd floor, turn right to the 2 nd center on the right",
+      "detail_url": "https://www.bumrungrad.com/en/centers/hearing-and-balance-clinic",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3343"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Hearing and Balance Clinic",
+            "Tel:",
+            "+66 2011 3343",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Hearing and Balance Clinic",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday 8:00 am to 7:00 pm",
+            "Sunday 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "Saturday 8:00 am to 7:00 pm",
+            "Sunday 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Hearing and Balance Clinic",
+            "Building A, 12",
+            "th",
+            "floor, South Wing Main Lobby, take the escalator to the 3",
+            "rd",
+            "floor, turn right to the 2",
+            "nd",
+            "center on the right"
+          ],
+          "building_info": [
+            "Building A, 12",
+            "floor, South Wing Main Lobby, take the escalator to the 3",
+            "floor, turn right to the 2"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:34"
+    },
+    {
+      "name": "Heart Institute",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a1822dd2-b0b7-481d-a452-2e3c1a3b5791/image.jpg",
+      "original_location": "Heart Institute Building A, 14 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/heart-institute",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "065-509-9198",
+            "02-066-8888"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Heart Institute",
+            "065-509-9198",
+            "(8.00-20.00 hrs. )",
+            "02-066-8888",
+            "(20.00-8.00 hrs. )",
+            "Email",
+            "[email protected]",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "065",
+              "509"
+            ],
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "02",
+              "066"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Heart Institute",
+            "Building A, 14",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 14",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:37"
+    },
+    {
+      "name": "Holistic Wound Care Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/eed62499-1358-4c9c-852c-483a456ffa94/image.jpg",
+      "original_location": "",
+      "detail_url": "https://www.bumrungrad.com/en/centers/holistic-wound-care-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 65 950 0895",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Holistic Wound Care Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 65 950 0895",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "or",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:39"
+    },
+    {
+      "name": "Horizon Regional Cancer Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/379a6af7-5051-4948-8920-1dc32fb93dc5/image.jpg",
+      "original_location": "Horizon Regional Cancer Center Building B, 3 rd floor Chemotherapy Department Building B, 3 rd floor, South Wing Radiology Department Building B, Ground floor, South Wing Bone Marrow Transplant Unit Building B, 8 th floor, North Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/horizon-cancer-treatment-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 92 493 9909",
+            "+66 65 978 1390",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Horizon Regional Cancer Center and Chemotherapy Department",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 92 493 9909",
+            "tel.",
+            "+66 65 978 1390",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Horizon Regional Cancer Center and Chemotherapy Department",
+            "Monday through Friday",
+            "7:00 am to 8:00 pm",
+            "Saturday",
+            "7:00 am to 4:00 pm",
+            "Sunday",
+            "7:00 am to 4:00 pm",
+            "Radiation Oncology Department",
+            "Monday through Saturday",
+            "8:00 am to 4:00 pm",
+            "Bone Marrow Transplant Unit",
+            "Open 24 hours a day, 7 days a week"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 8:00 pm",
+            "7:00 am to 4:00 pm",
+            "7:00 am to 4:00 pm",
+            "8:00 am to 4:00 pm",
+            "Open 24 hours a day, 7 days a week"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Horizon Regional Cancer Center",
+            "Building B, 3",
+            "rd",
+            "floor",
+            "Chemotherapy Department",
+            "Building B, 3",
+            "rd",
+            "floor, South Wing",
+            "Radiology Department",
+            "Building B, Ground floor, South Wing",
+            "Bone Marrow Transplant Unit",
+            "Building B, 8",
+            "th",
+            "floor, North Wing"
+          ],
+          "building_info": [
+            "Building B, 3",
+            "floor",
+            "Building B, 3",
+            "floor, South Wing",
+            "Building B, Ground floor, South Wing",
+            "Building B, 8",
+            "floor, North Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:42"
+    },
+    {
+      "name": "Hyperbaric Oxygen Therapy Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a560b2cc-7bcc-4595-856f-f97133d80630/image.jpg",
+      "original_location": "Hyperbaric Oxygen Therapy Center Building B, 3 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/hbot-hyperbaric-oxygen-therapy-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+6620117665"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Hyperbaric Oxygen Therapy Center",
+            "Tel:",
+            "+6620117665",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Hyperbaric Oxygen Therapy Center",
+            "Daily 8:00 am to 4:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 4:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Hyperbaric Oxygen Therapy Center",
+            "Building B, 3",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building B, 3",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:44"
+    },
+    {
+      "name": "Intensive Care Unit (ICU)",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a194d3fb-eb5e-4f1a-b0b9-0718bf1caae3/image.jpg",
+      "original_location": "Intensive Care Unit (ICU) ICU 1 5th floor, South Wing ICU 2 5th floor, South Wing ICU 3 3th floor, North Wing ICU 4 4th floor, North Wing CCU 5th floor, South Wing",
+      "detail_url": "https://www.bumrungrad.com/en/centers/intensive-care-unit-icu-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [],
+          "contact_text": [
+            "Contact Information",
+            "ICU 1",
+            "Tel: +66 2011 2510",
+            "ICU 2",
+            "Tel: +66 2011 2520",
+            "ICU 3",
+            "Tel: +66 2011 2302",
+            "ICU 4",
+            "Tel: +66 2011 3687",
+            "CCU",
+            "Tel: +66 2011 2500",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Intensive Care Unit (ICU)",
+            "24 hours daily"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "24 hours daily"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Intensive Care Unit (ICU)",
+            "ICU 1",
+            "5th floor, South Wing",
+            "ICU 2",
+            "5th floor, South Wing",
+            "ICU 3",
+            "3th",
+            "floor, North Wing",
+            "ICU 4",
+            "4th floor, North Wing",
+            "CCU",
+            "5th floor, South Wing"
+          ],
+          "building_info": [
+            "5th floor, South Wing",
+            "5th floor, South Wing",
+            "floor, North Wing",
+            "4th floor, North Wing",
+            "5th floor, South Wing"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:47"
+    },
+    {
+      "name": "Medical Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/ff429d0b-508f-4858-af01-7170bb2b7f3a/image.jpg",
+      "original_location": "Medical Clinic Building A, 15 th and 19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/medical-clinic-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3594",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Medical Clinic",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line",
+            "+662 011 3594",
+            "20.00-8.00 (BKK Time)",
+            "Contact Center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Medical Clinic",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday & Sunday",
+            "8:00 am to 7:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 7:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Medical Clinic",
+            "Building A, 15",
+            "th",
+            "and 19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 15",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:49"
+    },
+    {
+      "name": "Memory Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/77ee4224-57ec-453c-93ea-fd038f0ab782/image.jpg",
+      "original_location": "Neurology Center Building A, 19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/memory-clinic-dementia-alzheimers",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3994",
+            "+66 2011 3995",
+            "+66 2011 3996"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Memory Clinic",
+            "Tel:",
+            "+66 2011 3994",
+            "Tel:",
+            "+66 2011 3995",
+            "Tel:",
+            "+66 2011 3996",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Memory Clinic",
+            "Monday through Sunday",
+            "8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Neurology Center",
+            "Building A, 19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 19",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:51"
+    },
+    {
+      "name": "Nephrology (Kidney) Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/99fd1808-9379-4e37-b3f7-57abf5a93640/image.jpg",
+      "original_location": "Nephrology (Kidney) Center Building A , 19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/nephrology-kidney-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 61 408 7241",
+            "+66 201113992",
+            "+66 20113987"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Nephrology (Kidney) Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 61 408 7241",
+            "Nurse station",
+            "+66 201113992",
+            ",",
+            "+66 20113987",
+            "-8",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "3987",
+              "8"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Nephrology (Kidney) Center",
+            "Monday through Friday",
+            "8.00-20.00  (BKK Time)",
+            "Saturday & Sunday",
+            "8.00-17.00 (BKK Time)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8.00-20.00  (BKK Time)",
+            "8.00-17.00 (BKK Time)"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Nephrology (Kidney) Center",
+            "Building A , 19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A , 19",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:54"
+    },
+    {
+      "name": "Neurocritical Care",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/892238a1-01a2-48ca-8dc6-b50f90045352/image.jpg",
+      "original_location": "Neurocritical Care Building B, 5 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/neurocritical-care",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02 011 2502"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Neurocritical Care",
+            "02 011 2502",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Neurocritical Care",
+            "24 hours service open everyday"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "24 hours service open everyday"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Neurocritical Care",
+            "Building B, 5",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building B, 5",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:57"
+    },
+    {
+      "name": "Neuroscience Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/32edcda2-b6a6-466d-b689-5c979979c5fd/image.jpg",
+      "original_location": "Neuroscience Center Building A, 19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/neurology-stroke-dementia-neurosurgery-treatment-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 61 408 7826",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Neuroscience Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 61 408 7826",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Neuroscience Center",
+            "Monday through Sunday",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Neuroscience Center",
+            "Building A, 19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 19",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:23:59"
+    },
+    {
+      "name": "New Life Healthy Aging Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/1aa0bef6-61d3-46da-9d9e-1a195a78a8d8/image.jpg",
+      "original_location": "Medical Center Building A, 15 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/geriatric-new-life-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3592",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "New Life Healthy Aging Clinic​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3592",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "New Life Healthy Aging Clinic",
+            "Monday through Tuesday 8:00 am to 4:00 pm",
+            "Wednesday 8:00 am to 12:00 pm",
+            "Thursday Close",
+            "Friday 8:00 am to 8.00 pm",
+            "Saturday 8:00 am to 4:00 pm",
+            "Sunday 8:00 am to 4:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Monday through Tuesday 8:00 am to 4:00 pm",
+            "Wednesday 8:00 am to 12:00 pm",
+            "Friday 8:00 am to 8.00 pm",
+            "Saturday 8:00 am to 4:00 pm",
+            "Sunday 8:00 am to 4:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Medical Center",
+            "Building A, 15",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 15",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:01"
+    },
+    {
+      "name": "Nutrition Services",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/05c3abc6-c685-4d56-b40e-fe69eb86be69/image.jpg",
+      "original_location": "",
+      "detail_url": "https://www.bumrungrad.com/en/centers/nutrition-services",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 2882",
+            "+662 011 2577"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Nutrition Services",
+            "Tel:",
+            "+662 011 2882",
+            ",",
+            "+662 011 2577",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Nutrition Services",
+            "Monday through Sunday",
+            "9:00 am to 4:30 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "9:00 am to 4:30 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:04"
+    },
+    {
+      "name": "Parkinson's Disease and Movement Disorders Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/b437e9cc-eeff-466a-8005-f7dcc5fef55f/image.jpg",
+      "original_location": "Parkinson's Disease and Movement Disorders Clinic Neuroscience (Neuroloy) Center, Building A ,19 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/parkinsons-disease-movement-disorders-clinic",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3995",
+            "+66 2011 3996"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Parkinson's Disease and Movement Disorders Clinic",
+            "Tel:",
+            "+66 2011 3994",
+            "Tel:",
+            "+66 2011 3995",
+            "Tel:",
+            "+66 2011 3996",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Parkinson's Disease and Movement Disorders Clinic",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Parkinson's Disease and Movement Disorders Clinic",
+            "Neuroscience (Neuroloy) Center, Building A ,19",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Neuroscience (Neuroloy) Center, Building A ,19",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:06"
+    },
+    {
+      "name": "Perinatal Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/d906fd28-87ee-4c8c-b011-041283b3f0e2/image.jpg",
+      "original_location": "Perinatal Center Building B , 3 rd floor, North Wing (in front of the NICU, next to the Birth\n                                Unit)",
+      "detail_url": "https://www.bumrungrad.com/en/centers/perinatal-neonatal-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 2314",
+            "+66 2011 2326"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Perinatal Center",
+            "+66 2011 2314",
+            "+66 2011 2326",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Perinatal Center",
+            "24 hours daily"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "24 hours daily"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Perinatal Center",
+            "Building B , 3",
+            "rd",
+            "floor, North Wing (in front of the NICU, next to the Birth Unit)"
+          ],
+          "building_info": [
+            "Building B , 3",
+            "floor, North Wing (in front of the NICU, next to the Birth Unit)"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:08"
+    },
+    {
+      "name": "Pharmacy Services",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/24819e36-d0b7-4645-bd58-da405aada5a8/image.jpg",
+      "original_location": "",
+      "detail_url": "https://www.bumrungrad.com/en/clinics-centers/pharmacy",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3399"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Pharmacy Services",
+            "Email:",
+            "[email protected]",
+            "Tel:",
+            "+66 2011 3399",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Pharmacy Services",
+            "Daily 8:00 am to 5:30 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 5:30 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location"
+          ],
+          "building_info": []
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:10"
+    },
+    {
+      "name": "Plastic (Cosmetic) Surgery Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a9f2ebc4-c86a-49b1-ac64-a4f7fd23b401/image.jpg",
+      "original_location": "Plastic (Cosmetic) Surgery Center Building A, 16 th floor, Counter A",
+      "detail_url": "https://www.bumrungrad.com/en/centers/plastic-surgery-cosmetic-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3691"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Plastic (Cosmetic) Surgery Center",
+            "Tel:",
+            "+66 2011 3691",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Plastic (Cosmetic) Surgery Center",
+            "Monday through Sunday",
+            "Physician consultations by appointment only"
+          ],
+          "hours_info": [
+            "Service Hours"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Plastic (Cosmetic) Surgery Center",
+            "Building A, 16",
+            "th",
+            "floor, Counter A"
+          ],
+          "building_info": [
+            "Building A, 16",
+            "floor, Counter A"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:15"
+    },
+    {
+      "name": "Pride Clinic",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/68884e45-6ab7-4229-839d-8fbbdf447a7d/image.jpg",
+      "original_location": "Pride Clinic Building C , 11th Floor, Counter B",
+      "detail_url": "https://www.bumrungrad.com/en/centers/pride-clinic",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 (0) 2-011 5611",
+            "+66 (0) 2-066 8888"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Pride Clinic",
+            "• Call us at",
+            "+66 (0) 2-011 5611",
+            "between 8 am and 8 pm",
+            "and",
+            "+66 (0) 2-066 8888",
+            "and 1378 between 8 am and 8 pm.",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "2",
+              "011"
+            ],
+            [
+              "2",
+              "066"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Pride Clinic",
+            "Everyday from 8am to 8pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Everyday from 8am to 8pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Pride Clinic",
+            "Building C , 11th Floor, Counter B"
+          ],
+          "building_info": [
+            "Building C , 11th Floor, Counter B"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:17"
+    },
+    {
+      "name": "Pulmonary (Lung) Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/9be4e424-156e-41b6-9344-11b07ed01981/image.jpg",
+      "original_location": "Pulmonary (Lung) Center Building A, 15 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/pulmonary-lung-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+662 011 3591",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Pulmonary (Lung) Center",
+            "​",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+662 011 3591",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Pulmonary (Lung) Center",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday and Sunday 8:00 am to 7:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "Saturday and Sunday 8:00 am to 7:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Pulmonary (Lung) Center",
+            "Building A, 15",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 15",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:19"
+    },
+    {
+      "name": "Refractive Surgery Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/b16114a9-c47e-4654-9701-780a6bc63404/image.jpg",
+      "original_location": "Eye Center Building A, 18 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/eyelaser-LASIK-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3891",
+            "+66 2011 3885",
+            "+66 2011 3886"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Refractive Surgery Center",
+            "Tel:",
+            "+66 2011 3891",
+            "Tel:",
+            "+66 2011 3885",
+            "Tel:",
+            "+66 2011 3886",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Refractive Surgery Center",
+            "Monday through Sunday",
+            "7:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Eye Center",
+            "Building A, 18",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 18",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:22"
+    },
+    {
+      "name": "Robotic Scoliosis Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/9f4686cd-c56f-499f-840c-420a016f63cd/image.jpg",
+      "original_location": "Robotic Scoliosis Center Building A, 20 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/robotic-scoliosis-surgery-center",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 3077",
+            "+66 2011 3078",
+            "+66 2011 3079"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Robotic Scoliosis Center",
+            "Tel:",
+            "+66 2011 3077",
+            "Tel:",
+            "+66 2011 3078",
+            "Tel:",
+            "+66 2011 3079",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Robotic Scoliosis Center",
+            "Daily 8:00 am to 8:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "Daily 8:00 am to 8:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Robotic Scoliosis Center",
+            "Building A, 20",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 20",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:25"
+    },
+    {
+      "name": "Skin (Dermatology) Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/2f51cbe9-4987-4040-a4a5-47101b6ff82b/image.jpg",
+      "original_location": "Skin (Dermatology) Center Building C, 8 th Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/skin-dermatology-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 4291",
+            "+66 2011 4287"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Skin (Dermatology) Center",
+            "Tel:",
+            "+66 2011 4291",
+            "Tel:",
+            "+66 2011 4287",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Skin (Dermatology) Center",
+            "Monday through Friday",
+            "9:00 am to 8:00 pm",
+            "Saturday & Sunday",
+            "9:00 am to 6:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "9:00 am to 8:00 pm",
+            "9:00 am to 6:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Skin (Dermatology) Center",
+            "Building C, 8",
+            "th",
+            "Floor"
+          ],
+          "building_info": [
+            "Building C, 8",
+            "Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:27"
+    },
+    {
+      "name": "Sports Medicine & Joint Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/c4cd57cb-8048-407c-aeb9-2ea521334436/image.jpg",
+      "original_location": "Sports Medicine and Joint Center​ (Building A 20D) th floor Sports Medicine and Joint Exercise Center​ (Building C) Ground Floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/joint-replacement-surgery-sport-medicine-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-011-3094",
+            "02-011-3082",
+            "1378",
+            "02-011-2888"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Sports Medicine and Joint Center​",
+            "Tel:",
+            "02-011-3094",
+            ",",
+            "02-011-3082",
+            "or Local call",
+            "1378",
+            "(Hospital Contact Center)",
+            "Sports Medicine and Joint Exercise Center",
+            "Tel:",
+            "02-011-2888",
+            "or Local call 1378",
+            "(Hospital Contact Center)",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Sports Medicine and Joint Center​",
+            "08.00-20.00 (BKK Time)",
+            "Sports Medicine and Joint Exercise Center​",
+            "08.00-20.00 (BKK Time)",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "08.00-20.00 (BKK Time)",
+            "08.00-20.00 (BKK Time)",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Sports Medicine and Joint Center​",
+            "(Building A 20D)",
+            "th",
+            "floor",
+            "Sports Medicine and Joint Exercise Center​",
+            "(Building C) Ground Floor"
+          ],
+          "building_info": [
+            "(Building A 20D)",
+            "floor",
+            "(Building C) Ground Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:30"
+    },
+    {
+      "name": "Sports Medicine & Lifestyle Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/c819e6cf-30c1-441c-966d-0fb6703bbc35/image.jpg",
+      "original_location": "Sports Medicine & Lifestyle Center Building C, 11 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/sports-medicine-lifestyle-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "02-011-3094",
+            "02-011-3082",
+            "1378",
+            "02-011-2888"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Sports Medicine and Joint Center​",
+            "Tel:",
+            "02-011-3094",
+            ",",
+            "02-011-3082",
+            "or Local call",
+            "1378",
+            "(Hospital Contact Center)",
+            "Sports Medicine and Joint Exercise Center",
+            "Tel:",
+            "02-011-2888",
+            "or Local call 1378",
+            "(Hospital Contact Center)",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ],
+            [
+              "02",
+              "011"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Sports Medicine and Joint Center​",
+            "08.00-20.00 (BKK Time)",
+            "Sports Medicine and Joint Exercise Center​",
+            "08.00-20.00 (BKK Time)",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "08.00-20.00 (BKK Time)",
+            "08.00-20.00 (BKK Time)",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Sports Medicine and Joint Center​",
+            "(Building A 20D)",
+            "th",
+            "floor",
+            "Sports Medicine and Joint Exercise Center​",
+            "(Building C) Ground Floor"
+          ],
+          "building_info": [
+            "(Building A 20D)",
+            "floor",
+            "(Building C) Ground Floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:33"
+    },
+    {
+      "name": "Surgery Clinic and Surgery Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/908c0f83-5e5d-4b55-a7ed-44b2f17830c9/image.jpg",
+      "original_location": "Surgery Clinic and Surgery Center Building A, 16 th floor Bumrungrad Robotic Surgery Center Building A, 16th floor, counter B",
+      "detail_url": "https://www.bumrungrad.com/en/centers/surgical-clinic-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 61 409 6757",
+            "+662 066 8888",
+            "1378",
+            "+66 2011 5999"
+          ],
+          "contact_text": [
+            "Contact Information",
+            "Surgery Clinic and Surgery Center",
+            "8.00-20.00  (BKK Time)",
+            "Hot line tel.",
+            "+66 61 409 6757",
+            "20.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Bumrungrad Robotic Surgery Center",
+            "Tel:",
+            "+66 2011 5999",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "20.00"
+            ],
+            [
+              "20.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Surgery Clinic and Surgery Center",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday and Sunday",
+            "8:00 am to 7:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 7:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Surgery Clinic and Surgery Center",
+            "Building A, 16",
+            "th",
+            "floor",
+            "Bumrungrad Robotic Surgery Center",
+            "Building A, 16th floor, counter B"
+          ],
+          "building_info": [
+            "Building A, 16",
+            "floor",
+            "Building A, 16th floor, counter B"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:35"
+    },
+    {
+      "name": "Travel Medicine Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/7f89bddb-9682-4d8a-a3dd-c090b9452dce/image.jpg",
+      "original_location": "Travel Medicine Center Building A, 15 th floor, Station A and C",
+      "detail_url": "https://www.bumrungrad.com/en/centers/travel-medicine-clinic-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 2011 2222"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Travel Medicine Center",
+            "Tel:",
+            "+66 2011 2222",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Travel Medicine Center",
+            "Monday through Sunday",
+            "8:00 am to 4:00 pm"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 4:00 pm"
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Travel Medicine Center",
+            "Building A, 15",
+            "th",
+            "floor, Station A and C"
+          ],
+          "building_info": [
+            "Building A, 15",
+            "floor, Station A and C"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:38"
+    },
+    {
+      "name": "Urology Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/795a41e8-7a4b-42de-8e26-d3f449d980c9/image.jpg",
+      "original_location": "Urology Center Building A, 16 th floor",
+      "detail_url": "https://www.bumrungrad.com/en/centers/urology-prostate-bladder-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "061 409 3943",
+            "02 011 3693",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Urology Center",
+            "​",
+            "8.00-18.00  (BKK Time)",
+            "Tel:",
+            "061 409 3943",
+            "or",
+            "02 011 3693",
+            "18.00-8.00 (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "E-mail:",
+            "[email protected]",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "8.00",
+              "18.00"
+            ],
+            [
+              "18.00",
+              "8.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Urology Center",
+            "Monday through Friday",
+            "8:00 am to 8:00 pm",
+            "Saturday and Sunday",
+            "8:00 am to 5:00 pm",
+            "or later by appointment",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "8:00 am to 8:00 pm",
+            "8:00 am to 5:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Urology Center",
+            "Building A, 16",
+            "th",
+            "floor"
+          ],
+          "building_info": [
+            "Building A, 16",
+            "floor"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:40"
+    },
+    {
+      "name": "Vaccination Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/604556fc-0470-4a4e-975e-fbe41a1506c6/image.jpg",
+      "original_location": "Vaccination Center Health Screening Center (Check-up) Building A, 11 th floor After hours Evening Unit Building B 3 rd floor (Digestive disease (GI)\n                                Center)",
+      "detail_url": "https://www.bumrungrad.com/en/centers/vaccination-center-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [],
+          "contact_text": [
+            "Contact Number",
+            "Vaccination Center",
+            "07.00-16.00  (BKK Time)",
+            "Tel: 02 011 3193",
+            "Contact center 02 066 8888 or 1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": [
+            [
+              "07.00",
+              "16.00"
+            ]
+          ]
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Vaccination Center",
+            "Mon - Sun 7.00 – 16.00 hrs at Health Screening Center (Check-up) Building A, 11",
+            "th",
+            "floor",
+            "Mon - Sun 18.00 – 22.00 hrs at the Liver Center, 3",
+            "rd",
+            "Floor, Building B",
+            "*Operating hours are subject to change based on patient volume."
+          ],
+          "hours_info": [
+            "Service Hours",
+            "*Operating hours are subject to change based on patient volume."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Vaccination Center",
+            "Health Screening Center (Check-up) Building A, 11",
+            "th",
+            "floor",
+            "After hours Evening Unit Building B 3",
+            "rd",
+            "floor (Digestive disease (GI) Center)"
+          ],
+          "building_info": [
+            "Health Screening Center (Check-up) Building A, 11",
+            "floor",
+            "After hours Evening Unit Building B 3",
+            "floor (Digestive disease (GI) Center)"
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:42"
+    },
+    {
+      "name": "VitalLife Phuket",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/77338522-f01b-4e48-b395-8b5cc1580afd/image.jpg",
+      "original_location": "VitalLife Scientific Wellness Center- Phuket 78/3 Moo 4 Chengtalay Sub-District, Thalang District, Phuket 83110 VitalLife |\n                                  Phuket",
+      "detail_url": "https://www.vitallifeintegratedhealth.com/en/journal/phuket",
+      "scraped_data": {
+        "contact_information": {},
+        "service_hours": {},
+        "location": {}
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:44"
+    },
+    {
+      "name": "VitalLife Scientific Wellness Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/117393d1-c043-4c23-94e7-8220a6d6d3e8/image.jpg",
+      "original_location": "VitalLife Scientific Wellness Center 68 Building C 10 th Floor, Soi Sukhumvit 1, Klongtoey Nua, Wattana, Bangkok\n                                10110 https://www.vitallifeintegratedhealth.com/en/home",
+      "detail_url": "https://www.vitallifeintegratedhealth.com/en/home",
+      "scraped_data": {
+        "contact_information": {},
+        "service_hours": {},
+        "location": {}
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:45"
+    },
+    {
+      "name": "VitalLife Skin & Aesthetic Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/40085d03-e8bb-44ea-8671-33dff3925d4a/image.jpg",
+      "original_location": "VitalLife Skin & Aesthetic Center 8th-10th Floor, Building C, https://www.vitallifeintegratedhealth.com/en/home",
+      "detail_url": "https://www.vitallifeintegratedhealth.com/en/home",
+      "scraped_data": {
+        "contact_information": {},
+        "service_hours": {},
+        "location": {}
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:46"
+    },
+    {
+      "name": "Women's Center",
+      "original_image_url": "https://www.bumrungrad.com/getattachment/a4598b01-c429-41ce-ada1-fe55882241b0/image.jpg",
+      "original_location": "Women's Center Building B, 2 nd floor, North Wing of Main Building Easiest Way : Take the Main Lobby escalators to the 2 nd floor (which is above M Floor),\n                                  turn left. The Women's Center is about 15 meters on the left.",
+      "detail_url": "https://www.bumrungrad.com/en/centers/women-center-health-obgyn-bangkok-thailand",
+      "scraped_data": {
+        "contact_information": {
+          "phone_numbers": [
+            "+66 63 189 3406",
+            "+662 066 8888",
+            "1378"
+          ],
+          "contact_text": [
+            "Contact Number",
+            "Women's Center",
+            "​",
+            "8:00 am to 8:00 pm  (BKK Time)",
+            "Hot line tel.",
+            "+66 63 189 3406",
+            "8:00 pm to 8:00 am (BKK Time)",
+            "Contact center",
+            "+662 066 8888",
+            "and",
+            "1378",
+            "Tele-Consultation with Doctor",
+            "Click"
+          ],
+          "hours": []
+        },
+        "service_hours": {
+          "service_text": [
+            "Service Hours",
+            "Women's Center",
+            "Monday through Friday",
+            "7:00 am to 8:00 pm",
+            "Saturday",
+            "7:00 am to 7:30 pm",
+            "Sunday",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital.",
+            "Tel. 1378 (local calls only)"
+          ],
+          "hours_info": [
+            "Service Hours",
+            "7:00 am to 8:00 pm",
+            "7:00 am to 7:30 pm",
+            "8:00 am to 8:00 pm",
+            "Service hours for centers/clinics may change without prior notice due to safety protocols put in place to prevent the spread of COVID-19.",
+            "As a result, we ask that you please schedule your appointments in advance or call to recheck service hours before travelling to the hospital."
+          ]
+        },
+        "location": {
+          "location_text": [
+            "Location",
+            "Women's Center",
+            "Building B, 2",
+            "nd",
+            "floor, North Wing of Main Building",
+            "Easiest Way",
+            ":",
+            "Take the Main Lobby escalators to the 2",
+            "nd",
+            "floor (which is above M Floor), turn left. The Women's Center is about 15 meters on the left."
+          ],
+          "building_info": [
+            "Building B, 2",
+            "floor, North Wing of Main Building",
+            "floor (which is above M Floor), turn left. The Women's Center is about 15 meters on the left."
+          ]
+        }
+      },
+      "scraping_status": "success",
+      "scraped_at": "2025-07-12 01:24:49"
+    }
+  ]
+}
