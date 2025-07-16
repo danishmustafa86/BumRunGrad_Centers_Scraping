@@ -8,7 +8,7 @@ A web scraping project for nasal surgery information.
 poetry install
 ```
 
-## Usage
+## Its Usage
 
 ```bash
 streamlit run chatbot/app.py
